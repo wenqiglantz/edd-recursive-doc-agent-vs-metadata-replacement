@@ -15,3 +15,6 @@ This notebook demonstrates how to use EDD to decide which of the two LLMs perfor
 * zephyr-7b-alpha
 
 See Colab notebook edd_zephyr_7b_gpt3_5_metadata_replacement_multi_doc for detailed implementation.
+
+Check out my Medium blog post for details. [Exploring zephyr-7b-alpha Through the Lens of Evaluation Driven Development](https://levelup.gitconnected.com/exploring-zephyr-7b-alpha-through-the-lens-of-evaluation-driven-development-faf69e9d9ec7?sk=e51badfbb15c11e3ef919f2790b9480d).
+
